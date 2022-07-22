@@ -1,4 +1,4 @@
-# CCSF STEM club website
+# stemClub
 A college club website to promote science.
 > URL: https://stemclubccsf.snapluu.org/
 
